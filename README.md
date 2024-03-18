@@ -1,6 +1,6 @@
 # Restaurant Management System ;
 
-Language used : MYSQL
+Language used : MYSQL:
 Tools used    : MYSQL Workbench
 
 --->  This project aims to facilitate smooth day-to-day operations for restaurant owners, managers, staff, and customers alike.
